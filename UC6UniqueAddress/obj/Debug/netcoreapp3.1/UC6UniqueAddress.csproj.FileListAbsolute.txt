@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\bin\Debug\netcoreapp3.1\UC6UniqueAddress.exe
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\bin\Debug\netcoreapp3.1\UC6UniqueAddress.deps.json
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\bin\Debug\netcoreapp3.1\UC6UniqueAddress.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\bin\Debug\netcoreapp3.1\UC6UniqueAddress.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\bin\Debug\netcoreapp3.1\UC6UniqueAddress.dll
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\bin\Debug\netcoreapp3.1\UC6UniqueAddress.pdb
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.dll
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.pdb
+C:\Users\91807\Desktop\Batch67\Day10AddressBook\UC6UniqueAddress\obj\Debug\netcoreapp3.1\UC6UniqueAddress.genruntimeconfig.cache
